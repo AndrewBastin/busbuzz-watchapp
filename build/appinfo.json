@@ -1,0 +1,27 @@
+{
+    "targetPlatforms": [
+        "basalt"
+    ], 
+    "displayName": "busbuzz", 
+    "name": "busbuzz", 
+    "messageKeys": {
+        "dummy": 10000
+    }, 
+    "companyName": "Andrew Bastin", 
+    "enableMultiJS": true, 
+    "versionLabel": "1.0", 
+    "capabilities": [], 
+    "sdkVersion": "3", 
+    "appKeys": {
+        "dummy": 10000
+    }, 
+    "longName": "busbuzz", 
+    "shortName": "busbuzz", 
+    "watchapp": {
+        "watchface": false
+    }, 
+    "resources": {
+        "media": []
+    }, 
+    "uuid": "b9d13164-1048-41c4-a3b9-22e2ae717def"
+}
